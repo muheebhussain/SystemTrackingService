@@ -1,0 +1,156 @@
+Azure Solutions Architect with seven years of experience designing, building, and implementing scalable enterprise solutions on Azure Cloud. Over 15 years of experience in software development, Web, Mobile, and Desktop-based applications. 
+▪	Specializes in designing, developing, and managing solutions using Microsoft Azure Cloud services for enterprise and client projects in Agile and Scrum methodology.
+▪	Building and Delivering solutions to businesses on cutting-edge technologies by analyzing requirements and use cases. Simplifying complex processes with research, feedback, and tailoring solutions per business requirements. Exploring, staying current with the latest technology stack, learning new concepts, and presenting solution prototypes to Owners, VPs, Directors, and Stakeholders.
+▪	Mentoring development teams, providing design guidance, code reviews, scoping development efforts, and providing reliable resource and timeline estimates in a highly collaborative work environment.
+
+Skills
+Azure Cloud Services Development and Implementation:
+Compute, Integration, Databases, and Storage: App Service, Function App, Event Grid Domain, Topics, Subscription, Service Bus, Logic apps, Power platform, App Configuration, Virtual machine, Container registry, Container instances, Azure SQL, SQL Servers, Cosmos DB, Table Storage, Queue Storage, Azure Kubernetes Services.
+Security, Identity, and Governance: Key Vaults, App Service Certificates, Azure Active Directory, Azure AD Security, Azure AD B2C, Azure Identity, Microsoft Defender for Cloud, Advisor, Policy, Cost Management, Subscription, Billing.
+Networking and Monitor: Virtual networks, Virtual network gateways, Azure Domain Services, Firewall Policies, App Service Environment, Application Insights, Log Analytics, Metrics, and Alerts.
+AI and Other Services: Computer Vision, Azure Form Recognizer, Translators, Database Migration Assistant, Site Recovery, DevOps (Boards, Repos, Pipelines, Test Plans, and Artifacts), Azure CLI, Azure Well-Architected Framework.
+Software Development:
+▪	ASP.NET Core, Web API, Razor Pages, MVC, Blazor Server Side, Blazor WASM, Azure Identity, MSAL, Microsoft Graph, OAuth, JWT Tokens, Web/Windows Services, .NET, .NET Core, WPF (MVVM), WCF. 
+▪	C#, T-SQL, Entity Framework Core, Dapper, LINQ to SQL, ADO.NET
+▪	Robotic Process Automation, UiPath Studio, UiPath Orchestrator, and Robots
+▪	 TypeScript, Angular, JavaScript, jQuery, JSON, XML, Hyperscript, HTML, HTMX, CSS, Material Design, Bootstrap, Tailwind.
+▪	Visual Studio, Rider, ReSharper, Visual Studio Code, SQL Server 2008-2017, SSMS, DataGrip, SSRS, Angular CLI, TDD, XUnit, MS Unit Test, Moq, Fluent Validations. 
+▪	Azure DevOps Git, Github, Subversion, Pipelines, CI/CD, Azure Boards, Jira, Pulumi
+▪	Site Core, Telerik Suite, Syncfusion Suite, RedGate Tools, ReSharper, HP Web Inspect
+
+Education      
+▪	Master's in Managing Information Technology – Louisville, KY, U.S.A
+▪	Bachelor's Degree in Computer Science and Engineering.
+   
+Professional Experience   
+
+Societe Generale, Montreal, QC.                                                                     Duration: Apr 2022 to Current 
+Project: Azure Cloud Transformation 
+Role: Senior Azure Developer & Architect
+The Cloud Transformation project allows Societe Generale to migrate its existing applications to Azure Cloud. I have led the team, migrated their eight mission-critical legacy applications to Dotnet 6, and refactored them to make them cloud-native, scalable, and resilient. 
+	Worked with Architects, Designed and developed Scalable Application Architecture, Infrastructure, Security, Database, and Storage solutions.
+	Converted WCF Services to REST API, Windows Services to background workers, ASP.NET WebAPI to ASP.NET Core, Identified and migrated application modules to Azure Services. 
+	Assisted in building cloud transformation backlog. Project breakdown into Epics, User stories, and tasks. Migrated on-prem repositories to Azure Git, and migrated Team City pipeline to Jenkins. 
+	Authored CI/CD Pipelines, Kubernetes deployment scripts, and containerized, deployed applications to Azure Kubernetes Services.
+Environment: Asp.Net Core 6.0, Dotnet 6, Azure Event Hub, Azure Service Bus, Azure Kubernetes Service, Azure KeyVault, Azure CLI, Azure Storage(Blob/Queues/Tables), Azure App Certificates, Azure Private DNS, Azure SQL, PostgreSQL, C#, Entity Framework Core, Typescript, Angular 14, , Serilog, Zipkin, XUnit Test (Unit Testing), GIT,  Postman,  Visual Studio, Visual Studio Code, Rider, Jenkins Pipelines, Jira, ArgoCD, and Bicep Language Templates.
+
+Hatch, Mississauga, ON.                                                                                    Duration: Dec 2020 to Current 
+Project: Digital Platform Data Import-Export 
+Role: Integration Lead Engineer & Architect
+The Digital Platform Data Import-Export project allows Construction, Material Engineers, and business users to import bulk data from various data sources. Designed and built a cross-platform solution that will enable users to manage data with one user interface—investigated the business challenges by meeting SME's for automating this process. Created a solution prototype and presented a demo to the Managing Directors, Enterprise Architects, and product owners with an end-to-end solution to automate this complete process. This project saves $500K-$800K annually and allows users to manage previously done manually.
+	Designed and developed Scalable Application Architecture, Infrastructure, Security, Database, and Storage solutions aligning with future initiatives.
+	Created Architecture workflows, components, and Activity Diagrams to capture dependencies and presented them to stakeholders and enterprise architects for Approval. 
+	Upon Approval, created Project Backlog from proof of concept and worked with product owners to gather business requirements. Project breakdown into Epics, Features, User Stories, and Tasks to scope project timelines and progress.
+	Made informed decisions and took ownership of services and applications
+	Worked with internal clients, stakeholders, and other IT groups collaboratively to achieve goals.
+	Researched solutions and services available and tailored solutions to fit the business needs.
+	Built Web API, Excel Add-ins, Angular application, configured and implemented SSO(single sign-on), Azure B2C, Azure App Service, Event Grid Topic, Subscription, Azure SQL.
+	Managed multiple projects and mentored the development team by assisting and coordinating team members in different time zones. 
+	Presented demo to stakeholders on completion of milestones. 
+	Created Build and Release pipelines in Azure Pipelines
+Environment: Asp.Net Core 6.0, Azure Durable Functions, Durable Entities, Azure Event Grid, Azure App Service, Azure Identity, Web API, C# 9.0, Typescript, Angular 13, Azure SQL, Entity Framework Core, Azure Durable Functions, JSON Schema, Microsoft Rules Engine, JSON Logic, Azure Application Insights, XUnit Test (Unit Testing), GIT, Azure Repos, Postman,  Visual Studio, Visual Studio Code, Rider, Azure Build Pipelines, Azure DevOps, Azure Artifacts, Azure Storage, Azure KeyVault, Azure CLI, Excel Add-In JavaScript API, SharePoint, Microsoft Graph, Azure B2C.
+
+Project: Primavera Schedule Integration 
+Role: Integration Lead Engineer & Architect
+Hatch's construction and mining projects required visibility on available resources, project schedules, and deadlines to meet the deliverables. The Primavera Schedule Integration project was built to Sync Primavera project Schedules and notify changes to the project plan and resources to make timely decisions.
+Designed and built a sync solution for terabytes of data that allowed business users to track project schedules, progress, resource availability, and upcoming deliverables and notify them of schedule changes and impacts. Analyzed the business challenges by meeting SMEs to automate this process. Created a solution prototype and presented it to the Managing Directors, Enterprise Architects, and product owners. This project allowed the business to make timely decisions to reduce delays and keep the project on schedule. The project saves the company over a million annually.
+	Designed and developed Microservices, Serverless applications with Azure Durable functions, Implemented Infrastructure, Security, and Blob Storage.
+	Implemented HTTP Triggers, Event Grid Triggers, Storage Queue Triggers, and Timer Triggers with auto-scaling on demand. Implemented streaming to ingestion data and file transfers that allowed maximum throughput reducing data bandwidth usage to lower the costs. 
+	Utilized Azure Blob storage block blobs and page blobs to access stored data efficiently. 
+	Created Architecture workflows, component, and Activity Diagrams to capture dependencies and presented to stakeholders and enterprise architects for Approval. 
+	Upon Approval, created Project Backlog from proof of concept and worked with product owners to gather business requirements. Project breakdown into Epics, Features, User Stories and Task to scope project timelines and progress.
+	Assisted QA to capture and cover test cases across the project. Mentored the development team by assisting and coordinating team members in different time zones. 
+	Configured QA, UAT and Production environments for the project. Created Build and Release pipelines in Azure Pipelines, added policies and gatekeeper for automated CI/CD. 
+
+
+BioScript Solutions, Moncton, NB.                                                                 Duration: Jan 2019 to Dec 2020 
+Project: Clinic Appointments and Drug Delivery Setup(CADDS) 
+Role: Project Lead Developer & Architect
+BioScript Solutions had a manual process to set up clinic appointments and drug delivery setup at the pharmacy. I Investigated business challenges by meeting SMEs to automate this process. Created a Software prototype and presented a demo to the Owner, VPs, and Directors with an end-to-end solution to automate this complete process. This project saves $400K annually and increases resource center associates' productivity by 50% and pharmacist productivity by 20%.
+	Designed and developed Scalable Application Architecture, Infrastructure, Security, Database, and Storage solutions aligning with aligning future initiatives.
+	Created Project Backlog from proof of concept, and worked with product owners in gathering business requirements. Project breakdown into Epics, Features, User Stories, and Tasks to scope project timelines and progress.
+	Made informed decisions and took ownership of services and applications.
+	Worked with clients, stakeholders, and other IT groups collaboratively to achieve goals.
+	Migrated GitHub Repos to Azure Repos, Jira to Azure Boards, and NuGet Package Sources to Azure Artifacts. Worked with QA resources in researching Azure Test Plans and presenting use cases to businesses and got Approval for Migrating to Azure Test Plans.
+	Created Build and Release pipelines in Azure Pipelines. Documented the entire Azure DevOps migration process and assisted other teams in Migrating to Azure DevOps. 
+	Researched and Identified third-party SMS service providers who meet business compliance and requirements. Approached vendors to gather quotes and submitted them for business approval. Developed prototypes using vendor APIs, security, reliability, support, and cost.
+	Mentored the development team and guided design, code reviews, best practices, software quality, testing, and standardized development process. Encouraged the team to adapt new versions or syntax to improve efficiency and productivity. 
+	Developed and Implemented Azure Durable Functions, and Azure Queue Storage queues for scaling and resiliency.
+
+Environment: .Net Core 3.1, ASP.NET Core 3.1, Web API, Blazor WASM, Ui Path RPA, C#, Azure SQL, Entity Framework Core, Azure Durable Functions, Azure Application Insights, XUnit Test (Unit Testing), Telerik Suite, Bootstrap, HTML, CSS, GIT, Azure Repos, Postman,  Visual Studio, Visual Studio Code, Rider, Azure Build Pipelines, Azure DevOps, Azure Artifacts, Azure Storage, Azure KeyVault, Azure CLI
+
+Project: BioMetRx CRM and Robotic Process Automation
+Role: Senior Software Engineer
+Joined the BioScript Team to build custom CRM for pharmacy. While actively working on a current project discovered the pharmacy's manual process. As a creative thinker and problem solver, researched and learned new technologies, created prototypes and presented RPA solutions to Stakeholders. The introduction of RPA at BioScript opened new business prospects. Got promoted by the VP of Innovations to lead a team to design and develop cutting-edge solutions for the business. Due to timeline constraints, continued to work on the CRM project and simultaneously started an RPA team. Automated six business processes across multiple pharmacies which saves $100K annually and improved process efficiency.
+	Designed and developed complex software modules for processing shipments, patient therapies and payments. 
+	Worked in an agile team environment, contributing to design and architecture, involving in all technical activities such as designing, sprint planning, backlog grooming, estimating, breaking user stories to manageable tasks, and performing code reviews. 
+	As a team player guided technical challenges. Following the DRY principle, created shared libraries to be used across multiple projects.
+	Eliminated manual processes in business workflow by automating manual processes to increase efficiency.
+	Lead Robotic Process Automation Team and met with vendors to identify and acquire required licenses. Configure Enterprise RPA environment by setting up required servers, development machines installing orchestrators, and robots.
+	Created Process Design Documents for Robots, trained developers in building robots by assigning tasks, provided learning resources, and assisted in understanding, and troubleshooting issues. Created and documented the RPA Development process and shared robot activities. Assisted QA resources in creating test cases/plans and documented QA processes.
+	Designed and Developed Data Mapping Engine to extract appointments and shipments from legacy applications. Processed and transformed the data and supplied it as a data source for Robots.
+
+Environment: .Net Core 3.1, ASP.NET Core 3.1, Azure B2C Identity, Web API, WPF (MVVM), Blazor Server Side, Ui Path RPA, Ui Path Studio, Ui Path Robot, UiPath Assistant, Ui Path Orchestrator,  C#, Azure SQL Server, Entity Framework Core, Design Patterns, Background Services, .Net Core Windows Services, Application Insights, XUnit Test (Unit Testing), Bootstrap, HTML, CSS, jQuery, Gulp, Git, TFS, Postman,  Visual Studio, Visual Studio Code, Rider, and Lighthouse. 
+
+
+Motion Technologies, Fishers, IN, USA                                                        Duration: Jan 2018 to Jan 2019 Role:  Principal Software Consultant  
+Client: Fulcrum Search Science Inc., Toronto, ON                                     
+
+	Designed and Developed an external module, as per the client's requirement, that allowed them to create multiple templates for each of their recruits while still syncing the data with their existing Bullhorn CRM.
+	Utilized Bullhorn Authentication which allowed clients to login with their existing CRM credentials.
+	Assisted the director in acquiring Bullhorn API access for development and production environments.
+	Advised and provided a cost-efficient solution for deploying and hosting web portal.
+	Built the web portal on Angular for intuitive user experience. 
+
+Environment: ASP.NET Core Web API 2.2, Angular 6, TypeScript 2.7, C#, Azure 
+SQL Server, Dapper ORM, Angular Material, Angular CLI, Application Insights, MS Test (Unit Testing), Flex grid, HTML, SCSS, Gulp, GIT, Azure Repos, Postman, Visual Studio, Visual Studio Code, and Bullhorn Rest API.
+
+Client: Union Gas/Enbridge Inc., Chatham, ON.                                                       
+Role:  Senior Software Consultant  
+ 
+	Followed secure coding practices and performed security defect remediation using HP Web Inspect.
+	Enhanced web application using C#, ASP.NET MVC, SiteCore, and Kitchen Sink.
+	Worked with clients, stakeholders, and other IT groups to design, develop, deploy and document web solutions. 
+	Provided technical services to support sustainment operations of internal and external web environments. 
+	Improved the site performance and increased the speed by threefold by minifying and bundling CSS and JS, as well as, compressing high resolution images. 
+	Integrated web analytics to triage and diagnose web applications to determine bottlenecks of business-critical applications. Fixing/resolving issues by following best practices. 
+ 
+Environment: ASP.NET MVC, Oracle, CMS SiteCore 8.6, Application Insights, Foundation, HTML, SCSS, CSS, GIT, TFS, HP Web Inspect, Service Now, Citrix NetScaler, Visual Studio, Visual Studio Code and Lighthouse. 
+
+Client: Indy Tax Service, Indianapolis, IN, USA                                                   
+Role:  Solution Architect and Developer 
+ 
+	Worked in Agile Scrum development process, which involved direct interaction with client and business users. 
+	Gathered requirements, created functional specifications, designed wireframes, and conducted demos to business users post task completion. 
+	Designed and developed scalable web application using C#, ASP.NET Core MVC, Web API, Entity Framework Core, Dapper, Azure SQL Server. 
+	Implemented a solution, for securely sharing documents, between clients using Azure Blob Storage. 
+	Configured custom domain, Installed App Certificates.
+	Integrated payment PayPal and Forte payment system gateways. 
+	Integrated Azure Application Insights to monitor application activity and triage performance of web application. 
+	Configured Monitoring and Scaling Azure App Service based on web traffic. 
+ 
+Environment: ASP.NET Core MVC, C#, Azure SQL Server, Dapper ORM, Entity Framework Core, Web API, Application Insights, Azure Storage, Azure App Service, .NET Standard, Asp.Net Core Telerik Controls, Unit of Work, Repository Pattern, MS Test (Unit Testing), PayPal and Forte Payments Integration, Bootstrap, Html, CSS, Git, Postman. 
+
+ 
+Zotec Partners, LLC, Carmel, IN. U.S.A                                                         Duration: Sep 2015 to Jan 2018   Role: Senior Software Engineer   
+  
+	Performed software development duties using C#, ASP.NET Web Forms, ASP.NET MVC, Web API, WPF, WCF, jQuery, Angular Js, Structure Map, Entity framework, SQL Server, Dapper. 
+	Refactoring, designing, and implementing of large-scale systems. 
+	Implemented new features and maintained WPF, VB6 application. 
+	Development of web applications using a combination of WCF services, dependency injection via Structure Map. Followed Clean Code and TDD Practices. 
+	Implemented Azure Application Insights into web and windows-based applications for triage and performance tuning. 
+	Integrated third party hardware SDK into web application to scan and process checks. 
+	Developed windows application tools for data import/export and configuration of the systems. 
+	Authored ad-hoc SQL queries, stored procedures, and tuned-up SQL queries to improve performance. 
+Environment:  .NET Framework 4.5, C#, ASP.NET Web Forms, ASP.NET MVC, Angular 
+2.0, Web API, WCF, WPF, SPA, MS SQL Server 2012/2017, Dapper, LINQ, AJAX, jQuery, 
+JavaScript, VB6, HTML 5, CSS 3, Bootstrap, JSON, StructureMap Dependency Injection, SVN, GIT, Agile Methodology, Web Service, Windows Service, Kendo UI, Visual Studio 2015/2017, Fixie Unit Test, Rally, Red Gate Tools, Agile Scrum Methodology.  
+
+Previous Experiences:
+  
+.NET Developer (Oct 2011 to Sep 2015).
+Seven Corners Inc., Carmel, IN. U.S.A 
+
+Programmer Analyst / Web Application Developer (March 2010 to Oct 2011)
+Innovations International, Louisville, KY. U.S.A                                       
+  
